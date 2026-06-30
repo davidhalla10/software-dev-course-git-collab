@@ -72,3 +72,5 @@ By completing this exercise, both partners should have a better understanding
 of how to collaborate using Git and GitHub. Feel free to reach out to the instructor
 if you have any questions or need assistance during the exercise.
 
+David Halla is the owner of this repository. 
+Abi is the contributor of the repository.
